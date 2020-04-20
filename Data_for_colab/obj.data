@@ -1,0 +1,5 @@
+classes=4
+train=Data_for_colab/train.txt
+valid=Data_for_colab/test.txt
+names=Data_for_colab/obj.names
+backup=backup/
