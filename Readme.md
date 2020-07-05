@@ -58,11 +58,4 @@ arguments :
 		functionality by following the instructions in `yolo.py` , line - 23     
 
 <b>Conclusions:</b>
-- This Repo is my best attempt to make object detection and recognition easier and will definitely in the future be introducing 
-easier methods than this also .
-
-- However if you any doubt regarding how the code is working in this Repo or One of the Repo's that i referred for training ,
-you can whatsapp me - +916265188633 .
-
-- Also do follow <a href="https://www.instagram.com/the_ai_works/">this</a> insta page for seeing the predictions from this model
-and also for some good Deep Learning and Data Science Stuffs.
+- This Repo is my best attempt to make object detection and recognition easier and would be introducing more convinient approaches in future.
